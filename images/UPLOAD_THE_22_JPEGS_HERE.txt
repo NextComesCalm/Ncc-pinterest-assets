@@ -1,0 +1,1 @@
+Upload the 22 JPEG files from the NCC Pinterest starter pack into this folder without renaming them. The filenames are listed in ../pinterest/pins-master.csv. Once they are present, the raw.githubusercontent.com Media URLs in the Pinterest CSV will resolve publicly.
